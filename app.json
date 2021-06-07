@@ -1,0 +1,27 @@
+{
+  "id": "6d1421ec-fc9d-460e-aaa4-8779901e7bbb",
+  "name": "Investment",
+  "publisher": "ARM_Investment",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 1,
+      "to": 99000959
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Investment.com/help/",
+  "showMyCode": true,
+  "target": "OnPrem",
+  "runtime": "7.0"
+}
